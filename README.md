@@ -6,6 +6,13 @@
 ---
 Word Guess 2.0!!  With even more than just one word to guess at a time! This iteration of word guess is fully available for play through your terminal or console!
 
+## **Table of Contents**
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Credits](#credits)
+4. [Technologies](#technologies)
+5. [License](#license)
+
 ## **Installation**
 ---
 To ensure this app works correctly, make sure you download the main directory and use the `npm install` command to properly install all the dependencies.
