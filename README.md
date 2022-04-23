@@ -14,7 +14,7 @@ To ensure this app works correctly, make sure you download the main directory an
 ---
 To start playing Word Guess 2.0 you will need to use the `npm start` command in your console/terminal while in the directory where the index.js is stored.
 
-![Preview of gameplay](media\wordGuess.gif)
+![Preview of gameplay](./media/wordGuess.gif)
 
 In the above animation you can see how the gameplay works with user input. You have 10 incorrect attempts available. Correct guesses do not count towards it. If you complete a word you will be given another word to complete, however if you do not complete the given word you will be given an option to stop playing.
 
